@@ -1,0 +1,23 @@
+{
+  "name": "fraudguardapi",
+  "version": "1.0.0",
+  "description": "FraudGuard Backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kosgeibenedict/nodeApi.git"
+  },
+  "keywords": [
+    "Express",
+    "API"
+  ],
+  "author": "Benedict Kosgei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kosgeibenedict/nodeApi/issues"
+  },
+  "homepage": "https://github.com/kosgeibenedict/nodeApi#readme"
+}

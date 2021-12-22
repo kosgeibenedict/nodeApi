@@ -19,5 +19,12 @@
   "bugs": {
     "url": "https://github.com/kosgeibenedict/nodeApi/issues"
   },
-  "homepage": "https://github.com/kosgeibenedict/nodeApi#readme"
+  "homepage": "https://github.com/kosgeibenedict/nodeApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "helmet": "^4.6.0",
+    "morgan": "^1.10.0"
+  }
 }
